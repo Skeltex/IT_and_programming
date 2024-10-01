@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041A\u041D\u0418\u0418\u0422\\\u041F\u043E\u0431\u0438\u0442\u043E\u0432\u044B\u0435 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1C91A6-927D-4A68-AB50-334DF540403D}|task\\task.vcxproj|E:\\\u041A\u041D\u0418\u0418\u0422\\\u041F\u043E\u0431\u0438\u0442\u043E\u0432\u044B\u0435 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\task\\task\\task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C1C91A6-927D-4A68-AB50-334DF540403D}|task\\task.vcxproj|solutionrelative:task\\task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task.cpp",
+              "DocumentMoniker": "E:\\\u041A\u041D\u0418\u0418\u0422\\\u041F\u043E\u0431\u0438\u0442\u043E\u0432\u044B\u0435 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\task\\task\\task.cpp",
+              "RelativeDocumentMoniker": "task\\task.cpp",
+              "ToolTip": "E:\\\u041A\u041D\u0418\u0418\u0422\\\u041F\u043E\u0431\u0438\u0442\u043E\u0432\u044B\u0435 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\task\\task\\task.cpp",
+              "RelativeToolTip": "task\\task.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T18:16:00.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

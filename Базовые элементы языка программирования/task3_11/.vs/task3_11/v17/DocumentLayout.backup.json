@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041A\u041D\u0418\u0418\u0422\\\u0411\u0430\u0437\u043E\u0432\u044B\u0435 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u044F\u0437\u044B\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\task3_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47002D9E-6B5A-440D-A103-585765F4DACD}|task3_11\\task3_11.vcxproj|E:\\\u041A\u041D\u0418\u0418\u0422\\\u0411\u0430\u0437\u043E\u0432\u044B\u0435 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u044F\u0437\u044B\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\task3_11\\task3_11\\task3_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47002D9E-6B5A-440D-A103-585765F4DACD}|task3_11\\task3_11.vcxproj|solutionrelative:task3_11\\task3_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task3_11.cpp",
+              "DocumentMoniker": "E:\\\u041A\u041D\u0418\u0418\u0422\\\u0411\u0430\u0437\u043E\u0432\u044B\u0435 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u044F\u0437\u044B\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\task3_11\\task3_11\\task3_11.cpp",
+              "RelativeDocumentMoniker": "task3_11\\task3_11.cpp",
+              "ToolTip": "E:\\\u041A\u041D\u0418\u0418\u0422\\\u0411\u0430\u0437\u043E\u0432\u044B\u0435 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u044F\u0437\u044B\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\task3_11\\task3_11\\task3_11.cpp",
+              "RelativeToolTip": "task3_11\\task3_11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T19:39:02.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
