@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041A\u041D\u0418\u0418\u0422\\\u0426\u0438\u043A\u043B\u044B\\task4_17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{408EBB6D-5FC1-4CE7-ABE3-8EBF219BDDA8}|task4_17\\task4_17.vcxproj|E:\\\u041A\u041D\u0418\u0418\u0422\\\u0426\u0438\u043A\u043B\u044B\\task4_17\\task4_17\\task4_17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408EBB6D-5FC1-4CE7-ABE3-8EBF219BDDA8}|task4_17\\task4_17.vcxproj|solutionrelative:task4_17\\task4_17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task4_17.cpp",
+              "DocumentMoniker": "E:\\\u041A\u041D\u0418\u0418\u0422\\\u0426\u0438\u043A\u043B\u044B\\task4_17\\task4_17\\task4_17.cpp",
+              "RelativeDocumentMoniker": "task4_17\\task4_17.cpp",
+              "ToolTip": "E:\\\u041A\u041D\u0418\u0418\u0422\\\u0426\u0438\u043A\u043B\u044B\\task4_17\\task4_17\\task4_17.cpp",
+              "RelativeToolTip": "task4_17\\task4_17.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T18:01:13.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
