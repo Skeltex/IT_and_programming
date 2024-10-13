@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\IT_and_programming\\\u0420\u0435\u043A\u0443\u0440\u0440\u0435\u043D\u0442\u043D\u044B\u0435 \u0441\u043E\u043E\u0442\u043D\u043E\u0448\u0435\u043D\u0438\u044F\\task1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D0FAD4-4D64-438D-A8EA-AA5C77A02049}|task1_1\\task1_1.vcxproj|F:\\IT_and_programming\\\u0420\u0435\u043A\u0443\u0440\u0440\u0435\u043D\u0442\u043D\u044B\u0435 \u0441\u043E\u043E\u0442\u043D\u043E\u0448\u0435\u043D\u0438\u044F\\task1_1\\task1_1\\task1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3D0FAD4-4D64-438D-A8EA-AA5C77A02049}|task1_1\\task1_1.vcxproj|solutionrelative:task1_1\\task1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task1_1.cpp",
+              "DocumentMoniker": "F:\\IT_and_programming\\\u0420\u0435\u043A\u0443\u0440\u0440\u0435\u043D\u0442\u043D\u044B\u0435 \u0441\u043E\u043E\u0442\u043D\u043E\u0448\u0435\u043D\u0438\u044F\\task1_1\\task1_1\\task1_1.cpp",
+              "RelativeDocumentMoniker": "task1_1\\task1_1.cpp",
+              "ToolTip": "F:\\IT_and_programming\\\u0420\u0435\u043A\u0443\u0440\u0440\u0435\u043D\u0442\u043D\u044B\u0435 \u0441\u043E\u043E\u0442\u043D\u043E\u0448\u0435\u043D\u0438\u044F\\task1_1\\task1_1\\task1_1.cpp",
+              "RelativeToolTip": "task1_1\\task1_1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T20:20:49.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
